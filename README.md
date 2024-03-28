@@ -2,8 +2,9 @@
 # 🔏 Encriptador de texto
 Desarrolle el Challenge Encriptador | Oracle - AluraLATAM
 <div style="display: flex; justify-content: center;">
-    <img src="img/one1.png" width="100"/>
     <img src="img/logo.svg" width="64"/>
+    <img src="img/one1.png" width="100"/>
+    
 </div>
 
 
