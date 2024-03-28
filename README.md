@@ -1,8 +1,10 @@
 # Challeng-Oracle
 # 🔏 Encriptador de texto
 Desarrolle el Challenge Encriptador | Oracle - AluraLATAM
-<div align="center"><img src="img/one1.png" width="100"/></div>
-<div align="center"><img src="img/logo.svg" width="64"/></div>
+<div style="display: flex; justify-content: space-around;">
+    <img src="img/one1.png" width="100"/>
+    <img src="img/logo.svg" width="64"/>
+</div>
 
 
 ## 💡 Descripción
